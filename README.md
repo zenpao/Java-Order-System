@@ -112,4 +112,4 @@ Java-Order-System/
 
 ## License
 
-Not specified.
+Apache License 2.0
